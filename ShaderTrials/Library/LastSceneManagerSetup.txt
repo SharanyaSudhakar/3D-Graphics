@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SurfaceShaderChapter/Holographic/HolographicScene.unity
+  isLoaded: 1
+  isActive: 1

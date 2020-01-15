@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/mp2_s.unity
+  isLoaded: 1
+  isActive: 1
